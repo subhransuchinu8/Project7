@@ -1,5 +1,6 @@
 # Project7
 A multi-web page is built using HTML and CSS.
+
 Frame 1: 
 ![ss7 1](https://github.com/subhransuchinu8/Project7/assets/119065077/eb8f2378-c611-4376-b718-456519f073cd)
 Frame 2:
